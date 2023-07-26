@@ -1,4 +1,4 @@
-Nxt Trendz ( ECommerce Clone - Amazon, Flipkart
+Nxt Trendz - Eteva Tech Consulting Assignment
 
 Implemented Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where users can login and can see list of products with search, filters, sort by, etc..
 
@@ -7,3 +7,5 @@ Implemented Nxt Trendz application which is a clone for ECommerce applications l
 3. Persisted user login state by keeping jwt token in local storage, Sending it in headers of further api calls to authorize the user.
 
 Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
+
+username: rahul password: rahul@2021
